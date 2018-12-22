@@ -1,6 +1,6 @@
 Package: foolsgold
 Title: A Miscellaneous Hotchpotch of Useful Code for Fools Like Me  
-Version: 0.0.0.1
+Version: 0.0.1
 Authors@R: person("Ari", "Angelo", email = "hello@ari.nz", role = c("aut", "cre"))
 Description: Here golden functions and dataset will be created and stored so that life is easier for me down the road
 Depends: R (>= 3.3.3)
